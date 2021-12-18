@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Rekha Suryavanshi
-- 🔭 I’m currently working on Flutter
-- 💬 Ask me about Java, Python, Sql
+- 🔭 I’m currently working on ReactNative
+- 💬 Ask me about Flutter,Java, Python, Sql
 - 📫 How to reach me: rrsuryawanshi24@gmail.com
-- ⚡ Fun fact: I love to do drawings and paintings🎨
+- ⚡ Fun fact: I love to do paintings🎨
 
 
    
